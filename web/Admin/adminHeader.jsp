@@ -65,7 +65,9 @@
                         <li class="divider"></li>
                         <li><a href="viewStaff.jsp">View all staff profile</a></li>
                         <li class="divider"></li>
-                        <li><a href="postManagement.jsp">Post management</a></li>
+                        <li class="dropdown-submenu"><a tabindex="-1"href="postManagement.jsp">Post management</a>
+                        <li><a tabindex="-1" href="#">Second level</a></li>
+                        </li>
                      </ul>
                   </li>  
                   
